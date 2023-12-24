@@ -1,1 +1,8 @@
-mylog.log
+#mylog.log 
+#ignore log file in all files and folder
+
+# /mylog.log
+#ignore in root direc only
+
+*.log
+#ignore log files everywhere
